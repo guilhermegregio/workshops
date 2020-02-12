@@ -1,0 +1,28 @@
+- JS avançado
+ - TestRunners (Jest)
+- React
+ - React Testing Library 
+ - Design System
+ - Components
+ - StoryBook
+ - Creditas UI Style Guide
+- Gerenciamento de estado
+ - Flux, Redux
+ - Imutabilidade
+- CSS-in-JS
+- Padrões de organização de CSS
+ - BEM
+ - OOCSS
+ - Smacss
+- Hospedagem e CDN
+  - Cloudfront, netlify
+  - Storage (s3..)
+- Task Runners
+  - Minificação
+  - Transpile (Babel)
+  - Bundle
+  - Scripts
+- Linters
+  - Prettier
+  - ESLint
+  - Stylelint
